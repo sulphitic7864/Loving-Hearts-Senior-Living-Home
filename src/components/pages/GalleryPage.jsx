@@ -29,10 +29,7 @@ function GalleryPage() {
           <div className="text-text-color text-center md:mb-10 mb-5">
             <h1 className="text-xl coustard-regular">A Place Like Home.</h1>
             <p className="text-sm  open-sans pt-2 leading-6">
-              When choosing an Assisted Living Home for your loved ones or for
-              yourself, there are bound to be lots of questions that come up. If
-              you’re considering The Winchester Home, please don’t hesitate to
-              get in touch with us.
+              Choosing an assisted living home for yourself or a loved one is an important decision, and it’s natural to have questions along the way. At Loving Hearts Senior Living, we understand how important it is to find a place where you feel comfortable, supported, and cared for. If you’re considering us for your loved one’s care, we welcome your questions and invite you to reach out. We’re here to help guide you through the process and provide the information you need to make the best decision for your family.
             </p>
           </div>
           <div className="gap-4">
